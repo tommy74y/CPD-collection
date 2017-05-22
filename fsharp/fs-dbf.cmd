@@ -1,0 +1,1 @@
+C:\Code\fsharp4\fsc.exe fs-utils.fs fs-dbfparser.fs fs-dbf.fs
